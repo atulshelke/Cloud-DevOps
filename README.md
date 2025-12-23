@@ -3,7 +3,7 @@
 
 This repository contains AWS learning resources, including the **“Amazon Web Services”** tutorial that introduces key AWS concepts and services.
 
-📄 **Download Full Course PDF:**   
+📄 **Download AWS Full Course PDF:**   
 [Amazon Web Services.pdf](Amazon%20Web%20Services.pdf)
 
 ---
@@ -17,14 +17,6 @@ This document and the accompanying learning content are designed to help beginne
 ---
 
 ## 📚 What You Will Learn
-
-The AWS tutorial covers key concepts such as:
-
-### ☁️ AWS Cloud Basics
-- What is cloud computing?
-- AWS global infrastructure: Regions and Availability Zones  
-- Pay-as-you-go pricing model  
-- Benefits of AWS cloud adoption :contentReference[oaicite:2]{index=2}
 
 ### 🖥 Compute Services
 - Amazon EC2 (Elastic Compute Cloud) for scalable virtual servers  
@@ -48,7 +40,7 @@ The AWS tutorial covers key concepts such as:
 
 ---
 # 📘 GitHub Actions
-📄 **Download Full Course PDF:**   
+📄 **Download Github Full Course PDF:**   
 [GitHub Actions – Zero to Advanced (PDF)](https://github.com/atulshelke/Cloud-DevOps/blob/392c0317f147d285264799005e392f397b275255/GitHub%20Actions.pdf)
 
 ---
@@ -81,7 +73,7 @@ The AWS tutorial covers key concepts such as:
 # 📘 Infrastructure as Code with Terraform
 
 
-📄 **Download Full Course PDF:**  
+📄 **Download Terraform Full Course PDF:**  
 [Infrastructure as Code with Terraform (PDF)](https://github.com/atulshelke/Cloud-DevOps/blob/392c0317f147d285264799005e392f397b275255/Infrastructure%20as%20Code%20with%20Terraform.pdf)
 
 
