@@ -80,18 +80,18 @@ This document and the accompanying learning content are designed to help beginne
 
 ## 📚 Core Modules (Overview)
 
-1. **Introduction to IaC & Terraform**
-2. **Terraform Basics**
-3. **Terraform Configuration Language (HCL)**
-4. **Variables, Outputs & Data Sources**
-5. **Terraform State Management**
-6. **Modules & Reusability**
-7. **Functions & Meta-Arguments**
-8. **Terraform with AWS**
-9. **Workspaces & Environment Strategies**
-10. **Security Best Practices**
-11. **CI/CD with Terraform**
-12. **Troubleshooting & Debugging**
-13. **Advanced Concepts**
-14. **Capstone Project**
+1. Introduction to IaC & Terraform
+2. Terraform Basics
+3. Terraform Configuration Language (HCL)
+4. Variables, Outputs & Data Sources
+5. Terraform State Management
+6. Modules & Reusability
+7. Functions & Meta-Arguments
+8. Terraform with AWS
+9. Workspaces & Environment Strategies
+10. Security Best Practices
+11. CI/CD with Terraform
+12. Troubleshooting & Debugging
+13. Advanced Concepts
+14. Capstone Project
 
